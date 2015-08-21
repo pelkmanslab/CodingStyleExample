@@ -30,7 +30,7 @@ The current date (when the function is called) is included.
 
 ## Comments
 * The public functions are commented strictly using the Function Comment Template, including a description, arguments (including type), side-effects, author contact information.
-* The private function are less comprehensively commented. The less-intuitive functions (createBody.m, wrapNameAddress.m) have a lot of information. Others have little.
+* The private function are less comprehensively commented. The less-intuitive functions ([createBody.m](private/createBody.m), [wrapNameAddress.m](private/wrapNameAddress.m)) have a lot of information. Others have little.
 
 ## Testing
 There are two tests in the [tests](tests/) folder, one for each public function.
