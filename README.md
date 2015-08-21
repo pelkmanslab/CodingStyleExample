@@ -17,7 +17,7 @@ The current date (when the function is called) is included.
 
 ## Public vs Private
 1. There are just two public functions. This gives a small, easy-to-understand interface to the outside world.
-2. There are several private functions in 'private'. These are only visible within the folder.
+2. There are several private functions in [private/](private/). These are only visible within the folder.
 
 ## Functions and Lines of Code
 1. Each function has few lines of code, but there are many functions.
