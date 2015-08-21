@@ -15,7 +15,7 @@ a specific person (personal) or anonymously.
 2. Don't worry if you don't understand all of [wrapNameAddress.m](private/wrapNameAddress.m), it does some cell-array stuff.
 
 ## Public vs Private
-1. There are just two public functions. This gives a small, easy-to-understand interface to the outside world.
+1. There are just two public functions (in the [top-level folder](./)). This gives a small, easy-to-understand interface to the outside world.
 2. There are several private functions in [private/](private/). These are only visible within the folder.
 
 ## Functions and Lines of Code
