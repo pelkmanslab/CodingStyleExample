@@ -4,8 +4,12 @@ An example of Matlab code, that demonstrates some topics covered in the
 presentation 'Pelkmans Matlab Coding Style'.
 
 The example programs generates text for a letter, either addressed to
-a specific person (personal) or anonymously. The text of each letter must
+a specific person (personal) or anonymously.
+
+The text of each letter must
 be word-wrapped to 80 characters.
+
+The current date (when the function is called) is included.
 
 ## Coding
 1. There's many multi-line matlab statements (the ... at the end!)
