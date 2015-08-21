@@ -8,7 +8,7 @@ function [ textOut ] = createSenderHeader( name, address, maxWidth )
 %
 % wrapped to maxWidth.
 %
-% Returns char-array
+% Returns vertical cell array of strings
 %
     textOut = wrapNameAddress(name,address,maxWidth);
 end

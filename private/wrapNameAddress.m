@@ -12,7 +12,7 @@ function [ text_out ] = wrapNameAddress( name, address, maxWidth )
 %          address    address (vertical cell array of strings)
 %          maxWidth   integer
 %    
-%  OUTPUT  a cell array, each element is a wrapped-line
+%  OUTPUT  a vertical cell array of strings, each element is a wrapped-line
 %
 %  SIDE-EFFECTS   none
 %

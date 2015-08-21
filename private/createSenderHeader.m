@@ -7,7 +7,7 @@ function [ textOut ] = createRecipientHeader( name, address, maxWidth )
 %
 % wrapped to maxWidth.
 %
-% Returns char-array
+% Returns vertical cell array of strings
 %
 % ASSUMPTION: date-string is always less than maxWidth, so we don't wrap
     textOut = [...
