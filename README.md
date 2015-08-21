@@ -12,7 +12,7 @@ be word-wrapped to 80 characters.
 The current date (when the function is called) is included.
 
 ## Coding
-1. There's many multi-line matlab statements (the ... at the end!)
+1. There's many multi-line matlab statements (the ```...``` at the end!)
 2. Don't worry if you don't understand all of [wrapNameAddress.m](private/wrapNameAddress.m), it does some cell-array stuff.
 
 ## Public vs Private
