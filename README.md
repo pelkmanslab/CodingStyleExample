@@ -3,11 +3,9 @@
 An example of Matlab code, that demonstrates some topics covered in the
 presentation 'Pelkmans Matlab Coding Style'.
 
-The example providers code for generating letters, either addressed to
-a specific person (personal) or anonymous. The text of each letter must
+The example programs generates text for a letter, either addressed to
+a specific person (personal) or anonymously. The text of each letter must
 be word-wrapped to 80 characters.
-
-Please note the following:
 
 ## Coding
 1. There's many multi-line matlab statements (the ... at the end!)
