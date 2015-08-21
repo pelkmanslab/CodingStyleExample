@@ -3,6 +3,8 @@
 An example of Matlab code, that demonstrates some topics covered in the
 presentation 'Pelkmans Matlab Coding Style'.
 
+Please see the [Matlab Coding Style Rules](https://github.com/pelkmanslab/iBRAIN_UZH/tree/master/doc/CodingStyle/Matlab).
+
 ##  Requirements of Example Program
 
 1. Generate text for a letter, either addressed to
