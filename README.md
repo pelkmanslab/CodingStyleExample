@@ -13,7 +13,7 @@ The current date (when the function is called) is included.
 
 ## Coding
 1. There's many multi-line matlab statements (the ... at the end!)
-2. Don't worry if you don't understand all of 'wrapNameAddress.m', it does some cell-array stuff.
+2. Don't worry if you don't understand all of [wrapNameAddress.m](private/wrapNameAddress.m), it does some cell-array stuff.
 
 ## Public vs Private
 1. There are just two public functions. This gives a small, easy-to-understand interface to the outside world.
@@ -21,7 +21,7 @@ The current date (when the function is called) is included.
 
 ## Functions and Lines of Code
 1. Each function has few lines of code, but there are many functions.
-2. Functions are used, not just to avoid repetition, but to explain to the user what is happening e.g. createRecipientHeader exists only for a descriptive purpose.
+2. Functions are used, not just to avoid repetition, but to explain to the user what is happening e.g. [createRecipientHeader.m](private/createRecipientHeader.m] exists only for a descriptive purpose.
 
 ## Third Party Code
 * The code employs a third-party function downloaded from the internet (linewrap.m). It is located in 'lib'.
