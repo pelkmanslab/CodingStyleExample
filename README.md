@@ -8,7 +8,7 @@ presentation 'Pelkmans Matlab Coding Style'.
 1. Generate text for a letter, either addressed to
 a specific person (personal) or anonymously.
 2. Text is word-wrapped to 80 characters.
-3. The current date (when the function is called) is included.
+3. The current date is included, at the point the function is called.
 
 ## Coding
 1. There's many multi-line matlab statements (the ```...``` at the end of each line!)
