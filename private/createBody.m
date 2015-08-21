@@ -23,8 +23,6 @@ function [ textOut ] = createBody( openingLine, message, closingLine, senderName
 %
 %  AUTHORS        Owen Feehan
 %
-    % ASSUMPTION senderName w
-
     import linewrap.*;
     textOut = [...
         linewrap(openingLine,width); ...
