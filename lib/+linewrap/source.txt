@@ -1,0 +1,4 @@
+Downloaded from: (21/08/2015)
+http://www.mathworks.com/matlabcentral/fileexchange/9909-line-wrap-a-string
+
+By Steve Eddiens
