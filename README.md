@@ -12,7 +12,7 @@ be word-wrapped to 80 characters.
 The current date (when the function is called) is included.
 
 ## Coding
-1. There's many multi-line matlab statements (the ```...``` at the end!)
+1. There's many multi-line matlab statements (the ```...``` at the end of each line!)
 2. Don't worry if you don't understand all of [wrapNameAddress.m](private/wrapNameAddress.m), it does some cell-array stuff.
 
 ## Public vs Private
@@ -25,7 +25,7 @@ The current date (when the function is called) is included.
 
 ## Third Party Code
 * The code employs a third-party function downloaded from the internet (linewrap.m). It is located in 'lib'.
-* By adding a '+' in the folder name, it was turned into a package, and the 'import' statement must be used to call it (e.g. in wrapNameAddress.m)
+* By adding a '+' in the folder name, it was turned into a package, and the 'import' statement must be used to call it (e.g. in [wrapNameAddress.m](private/wrapNameAddress.m))
 * I added a 'source.txt' file in the +linewrap folder, to indicate where/when the code was downloaded from the internet.
 
 ## Comments
