@@ -3,14 +3,12 @@
 An example of Matlab code, that demonstrates some topics covered in the
 presentation 'Pelkmans Matlab Coding Style'.
 
-## Example Program Requirements
+##  Requirements of Example Program
 
-The program generates text for a letter, either addressed to
+1. Generate text for a letter, either addressed to
 a specific person (personal) or anonymously.
-
-Text is word-wrapped to 80 characters.
-
-The current date (when the function is called) is included.
+2. Text is word-wrapped to 80 characters.
+3. The current date (when the function is called) is included.
 
 ## Coding
 1. There's many multi-line matlab statements (the ```...``` at the end of each line!)
