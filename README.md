@@ -1,7 +1,7 @@
 # Example 'Letter Writing' demonstrating Matlab coding style
 
 An example of Matlab code, that demonstrates some topics covered in the
-presentation 'Pelkmans MatlabCoding Style'.
+presentation 'Pelkmans Matlab Coding Style'.
 
 The example providers code for generating letters, either addressed to
 a specific person (personal) or anonymous. The text of each letter must
@@ -36,18 +36,21 @@ There are two tests in the 'tests' folder, one for each public function.
 To run the tests, add the folder (and sub-folders) to your Matlab path,
 and run the command
 
-> results = runtests('testComposeLetters.m')
+```
+results = runtests('testComposeLetters.m')
+```
 
 ## You're welcome!
 
 Feel free to write me a thank-you letter.
 
-> composePersonalLetter('A Happy Lab-Member', ...
->    {'Pelkmans Lab';'IMLS';'University of Zurich'}, ...
->    'Thanks for the great work, have a nice weekend!', ...
->    'Owen Feehan', ...
->    {'Pelkmans Lab/S3IT';'University of Zurich'} ...
-> )
-
+```
+composePersonalLetter('A Happy Lab-Member', ...
+    {'Pelkmans Lab';'IMLS';'University of Zurich'}, ...
+    'Thanks for the great work, have a nice weekend!', ...
+    'Owen Feehan', ...
+    {'Pelkmans Lab/S3IT';'University of Zurich'} ...
+ )
+```
 
 
